@@ -13,7 +13,7 @@ namespace Calculator
         private double result, resultOne;
         private string operation, signo="mas";
         private bool useEqual;
-
+        //comentario de prueba
        public double NUM
         {
             get { return Convert.ToDouble(num); }
